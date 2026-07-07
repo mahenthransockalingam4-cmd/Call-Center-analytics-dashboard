@@ -3,7 +3,9 @@
 ## Project Overview
 
 This project simulates a real-world call center analytics assignment. The goal is to analyze customer service operations, identify performance trends, and provide business recommendations using SQL, Excel, and Power BI.
+## Dashboard Preview
 
+![Call Center Analytics Dashboard](Images/dashboard.png)
 ---
 
 ## Business Problem
