@@ -43,5 +43,4 @@ README.md
 ---
 
 ## Project Status
-
-🚧 In Progress
+✅  Portfolio Project Completed
