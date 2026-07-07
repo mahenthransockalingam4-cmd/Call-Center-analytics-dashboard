@@ -3,11 +3,29 @@
 ## Project Overview
 
 This project simulates a real-world call center analytics assignment. The goal is to analyze customer service operations, identify performance trends, and provide business recommendations using SQL, Excel, and Power BI.
+
+## Dataset
+
+The dataset contains call center operational data, including:
+
+- Agent ID
+- Product ID
+- Language ID
+- Average Handling Time (AHT)
+- Calls Handled
+- Call Date
 ## Dashboard Preview
 
 ![Call Center Analytics Dashboard](Images/dashboard.png)
 ---
+## Dashboard Features
 
+- KPI Cards
+- Calls Handled by Product
+- Calls Handled by Agent
+- Calls Handled by Language
+- Calls Trend Over Time
+- --
 ## Business Problem
 
 The Operations Manager has requested answers to the following questions:
@@ -29,7 +47,7 @@ The Operations Manager has requested answers to the following questions:
 - Agent 9 handled the highest call volume.
 - Language 1 received more calls than Language 2.
 - --
-Business Recommendations
+**Business Recommendations**
 
 - Review why Product 3 generates the highest call volume and identify common customer issues.
 - Analyze Agent 9's workflow to identify best practices that can be shared with other agents.
@@ -44,6 +62,16 @@ Business Recommendations
 - GitHub
 
 ---
+## Skills Demonstrated
+
+- SQL querying and data analysis
+- Data cleaning and preparation
+- Power BI dashboard development
+- KPI reporting
+- Data visualization
+- Business insight generation
+- GitHub project documentation
+- ---
 
 ## Repository Structure
 
